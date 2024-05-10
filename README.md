@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Tubitak/Hybrid dron with fire detection feature**
 - 🔭 I’m currently working on **NIMBUS UAV**
-- 🌱 I’m currently learning **Artificial intelligence**
+- 🌱 I’m currently learning **Artificial intelligence and Embedded System**
 
 
 
